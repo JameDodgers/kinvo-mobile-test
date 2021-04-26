@@ -1,6 +1,6 @@
 # Kinvo React Native App &middot; [![npm](https://img.shields.io/badge/npm-6.14.9-blue)](https://www.npmjs.com/package/npm)
 
-This is a technical challenge for a job opportunity at Kinvo that consists in developing an mobile app from a Adobe XD [propotype](https://xd.adobe.com/view/4701a220-a119-482a-89a5-4d110332e25f-1252/screen/59ecf5f8-d6a9-47e9-a14a-d890567d5b3d/specs/). The app was created in React Native and I chose [Expo CLI](https://docs.expo.io/get-started/installation/) to make development easier.
+This is a technical challenge for a job opportunity at Kinvo that consists in developing an mobile app from a Adobe XD [prototype](https://xd.adobe.com/view/4701a220-a119-482a-89a5-4d110332e25f-1252/screen/59ecf5f8-d6a9-47e9-a14a-d890567d5b3d/specs/). The app was created in React Native and I chose [Expo CLI](https://docs.expo.io/get-started/installation/) to make development easier.
 
 ## __Installing / Getting started__
 
